@@ -1,0 +1,11 @@
+   .gameBox {
+       border: solid 1px black;
+       vertical-align: middle;
+       text-align: center;
+       font-weight: bold;
+       font-size: 25px;
+       color: black;
+       cursor: pointer;
+       height: 100px;
+       width: 100px;
+   }
